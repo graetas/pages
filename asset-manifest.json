@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/graetas/pages/static/css/main.073c9b0a.css",
+    "main.js": "/graetas/pages/static/js/main.800b57bb.js",
+    "static/js/787.394a1b18.chunk.js": "/graetas/pages/static/js/787.394a1b18.chunk.js",
+    "static/media/logo.svg": "/graetas/pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/graetas/pages/index.html",
+    "main.073c9b0a.css.map": "/graetas/pages/static/css/main.073c9b0a.css.map",
+    "main.800b57bb.js.map": "/graetas/pages/static/js/main.800b57bb.js.map",
+    "787.394a1b18.chunk.js.map": "/graetas/pages/static/js/787.394a1b18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.800b57bb.js"
+  ]
+}
